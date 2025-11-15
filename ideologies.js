@@ -902,7 +902,7 @@ ideologies = [
     },
     {
         "name": "Minarcho-Socialism",
-        "link": "https://10groups.github.io/none.html",
+        "link": "https://themarkrogers.github.io/10groups/none.html",
         "desc": "Minarcho-Socialism advocates a state that is limited and minimal, but also based on socialist principles. Rather than providing law enforcement, a Minarcho-Socialist state would provide welfare and offer protection for workers.",
         "next": "Paleolibertarianism, Green Libertarianism, Minarchism, Classical Liberalism",
         "stats": {
@@ -1183,7 +1183,7 @@ ideologies = [
     },
     {
         "name": "Anarcho-Mutualism",
-        "link": "https://10groups.github.io/none.html",
+        "link": "https://themarkrogers.github.io/10groups/none.html",
         "desc": "Mutualism is an anarchist school of thought and economic theory that advocates a socialist society based on free markets and usufructs, i.e. occupation and use property norms.",
         "next": "Geolibertarianism, Mutualism, Individualist Anarchism",
         "stats": {
